@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Sebastien Vaucouleur',
     photo: '/photo.png',
-    bio: 'Computer Science',
+    bio: 'My little corner in Cyberspace',
     contacts: {
       email: '',
       facebook: '#',
@@ -36,7 +36,7 @@ module.exports = {
       github: 'vaucouleur',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'vaucouleur',
       instagram: '#',
       line: '',
       gitlab: '',
